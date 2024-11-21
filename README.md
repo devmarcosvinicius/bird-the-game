@@ -54,6 +54,6 @@
 https://drive.google.com/file/d/1fWPakaRCwTDUfqvTN8s0aCpuBdYhPj0S/view?usp=sharing
 
 ## Membros desse Projeto
-🙎‍♂ Gabriel Aias
-🙎‍♂ Marcos Vinicius
-🙎‍♂ Wanderson Martins
+🙎‍♂ Gabriel Aias  
+🙎‍♂ Marcos Vinicius  
+🙎‍♂ Wanderson Martins  
