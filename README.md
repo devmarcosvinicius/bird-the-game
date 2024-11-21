@@ -8,7 +8,7 @@
 [ ✅ ]  Compreensão aprofundada da natureza e desafios do problema.  
 [ ✅ ] Modelo matemático ou teórico desenvolvido para representar o problema.  
 
-### Fase 2: Planejamento [✅ ] 
+### Fase 2: Planejamento [ ✅ ] 
 
  [ ✅ ] Objetivos do algoritmo definidos com clareza.  
  [ ✅ ] Métricas para avaliação de eficiência do algoritmo estabelecidas.  
