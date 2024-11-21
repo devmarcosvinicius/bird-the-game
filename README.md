@@ -25,7 +25,7 @@
 
 ### Fase 4: Programação e Teste [ ✅ ] 
 
-[ ✅ ] Algoritmo traduzido com precisão em código de programação. 
+[ ✅ ] Algoritmo traduzido com precisão em código de programação.  
 [ ✅ ] Código de programação escrito de forma clara e organizada.  
 [ ✅ ]  Testes rigorosos realizados em uma variedade de casos de teste.  
 [ ✅ ] Casos limite e situações especiais testados.  
