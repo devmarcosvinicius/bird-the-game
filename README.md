@@ -38,7 +38,7 @@
  [ ✅ ] Avaliação da eficácia do algoritmo em termos de tempo de execução, uso de recursos e precisão na resolução do problema.  
  [ ✅ ] Avaliação da colaboração da equipe e cumprimento dos prazos.
 
-### Apresentação e Conclusão do Projeto [ Gabriel ] 
+### Apresentação e Conclusão do Projeto [ Gabriel Aias ] 
 [ ✅ ] Apresentação do projeto preparada com informações claras e objetivas.  
 [ ✅ ] Conclusões do projeto destacando os resultados e aprendizados.  
 [ ✅ ] Discussão sobre o projeto e respostas a perguntas da audiência.
